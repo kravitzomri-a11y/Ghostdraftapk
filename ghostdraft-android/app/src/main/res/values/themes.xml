@@ -1,0 +1,13 @@
+<resources>
+    <style name="Theme.GhostDraft" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">#0D1117</item>
+    </style>
+
+    <style name="Step">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:textColor">#E6EDF3</item>
+        <item name="android:backgroundTint">#21262D</item>
+    </style>
+</resources>

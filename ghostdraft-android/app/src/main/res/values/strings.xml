@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GhostDraft</string>
+    <string name="accessibility_label">GhostDraft dictation</string>
+    <string name="accessibility_description">Lets GhostDraft type your dictated speech into the text field you have focused in any app.</string>
+</resources>
